@@ -1,4 +1,5 @@
-1)let - we can reassign value , but not for const
+1)let - we can reassign value , but const we cant reassign value.
+  let and const has block scope.
 
 function example() {
   let a = 100; 
